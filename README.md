@@ -1,4 +1,4 @@
-# geometric-shapes
+# Geometric Shapes
 
 ## About this Micro Project
  A console application which calculates the area of various shapes.
