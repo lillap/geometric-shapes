@@ -1,6 +1,6 @@
 # Geometric Shapes
 
-## About this Tiny Project
+## About This Tiny Project
  A console application which calculates the area of various shapes.
  
 ## Installation
